@@ -17,7 +17,7 @@ except:
 trigger = ['hello', 'hi'] #add trigger (keywords) here. Seperate with comma 
 subreddits = 'anime + cats + askreddit' #Seperate communities with a plus sign. Don't add r/ in front of community name.
 max_character = 50 #Max character limit (Optional). Usefult to avoid disrupting discussions.
-cooldown = 18000 #A cooldown town between responses (Optional, but recommended). Useful to not make the bot seem spammy. Value is in seconds.
+cooldown = 18000 #A cooldown between responses (Optional, but recommended). Useful to not make the bot seem spammy. Value is in seconds.
 
 reply = '''
 

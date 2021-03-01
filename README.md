@@ -5,4 +5,4 @@ Looks for comments with keywords in chosen subreddits, and replies to them with 
 Using this bot will most likely get you banned in many subreddits, as they are annoying and becomes spam.
 Don't use maliciously.
 
-You will need praw and the keyboard libraries.
+You will need praw.
